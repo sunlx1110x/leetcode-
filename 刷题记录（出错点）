@@ -10,7 +10,7 @@
 27    回文链表   数组+ 双指针   快慢指针+反转链表   fast -> next && fast -> next -> next
 28    没搞懂
 29    有序循环列表插入值   遍历终止条件 node -> next != head  
-
+30     插入 删除 求随机   hash记录队尾下标 ， 不是back() 是size()-1   hash删除 erase()  数组删除 pop()  求随机数rand = random() % vec.size()  ,  vec[rand]
 
 36  stoi()  将别的类型转为int
 38  定义数组时记得赋（size， val）；  栈可以存下标，方便找长度；  
