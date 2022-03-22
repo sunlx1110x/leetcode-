@@ -8,6 +8,7 @@
 25    链表相加   存答案的表 添加值  addList = new listnode()  
 26    重排链表 交叉   长度是偶数会多加一次left  因此需要在left++  和 right-- 之间创建break ，当 left == right   ，最后一个节点的下标是left 或 都是；
 27    回文链表   数组+ 双指针   快慢指针+反转链表   fast -> next && fast -> next -> next
+28    没搞懂
 
 
 
