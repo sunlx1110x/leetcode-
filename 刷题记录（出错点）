@@ -32,7 +32,7 @@
 
 
 
-
+68   二分查找   找上界，（重复元素的第一个）， 左闭右开的写法： left < right , if num[mid] == target ---> right = mid; return left ; 取下届，return left -1; 
 
 
 链表
